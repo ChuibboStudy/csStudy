@@ -54,4 +54,8 @@ String a = "hello" + "world";
 String a = new StringBuilder("hello").append("world").toString(); 
 // StringBuilder를 통해 "hello" 문자열을 생성하고 "world"를 추가하고 toString()을 통해 String 객체로 변환하여 반환
 ```
+<br>
 
+### 참조
+https://inpa.tistory.com/entry/JAVA-%E2%98%95-String-StringBuffer-StringBuilder-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90
+https://ittrue.tistory.com/106
