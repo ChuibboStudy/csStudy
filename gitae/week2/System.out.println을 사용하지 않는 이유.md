@@ -15,3 +15,9 @@
 - 디버그, 로그용으로 사용 시 로그 출력 레벨을 사용할 수 없다.
    + System.out.println(), System.err.println()
 - 에러 발생 시 추적할 수 있는 최소한의 정보가 남지 않는다. (날짜, 시간, 수준)
+
+<br>
+
+### 참조
+https://wildeveloperetrain.tistory.com/204
+https://pig-programming.tistory.com/51
