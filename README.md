@@ -14,5 +14,14 @@
 1. 스레드는 왜 써야하는 것일까요?
 2. 0이 들어있는 변수에 10개의 스레드가 동시에 접근해서 ++ 연산을 하면 우리 예상과 다르게 10이 나오지 않습니다. 왜 그럴까요?
 
+## 23.01.08 (Week3 - 1)
+1. 자바에서 `동시성`과 관련된 예약어를 모두 말씀해주세요.
+2. `Blocking IO`와 `Non-Blocking IO` 의 차이를 말씀해주세요.
+
+## 23.01.11 (Week3 - 2)
+1. Serializable 은 무엇일까요?
+2. `GC`란 무엇이고, 왜 써야할까요?
+
 ## 출처
-- Week1 ~ Week3 : [F-lab 자바 기술 면접 대비하기 - 1편](https://f-lab.kr/blog/java-backend-interview-1)
+- Week1 ~ (Week3 - 1) : [F-lab 자바 기술 면접 대비하기 - 1편](https://f-lab.kr/blog/java-backend-interview-1)
+- Week3 - 2 : [F-lab 자바 기술 면접 대비하기 - 2편](https://f-lab.kr/blog/java-backend-interview-2)
